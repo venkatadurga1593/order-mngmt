@@ -1,0 +1,17 @@
+1. Tell me about yourself
+2. Can you try speech any concept at least 2 mins
+3. Prepare C langugae basics:
+	* What is C, when it was introduced who was invited.
+	* Defination about operators, Fuctions and Loops,
+	* Simple C language syntax, if else program
+4. SQL
+	* What is SQL, Why we are using.
+	* What is RDBMS, why we are being used widley.
+	* What is DDL, DML, TCL (3 enough), and syntax
+	* What is Table, Primary Key, Foreigh Key, Joins and Indexs.
+-----------------------------------------------------------------------
+
+Aptitude and Reasoning: You will make sure all the concepts like formulas to clear the exam.
+----------------------
+
+English Grammer test 
